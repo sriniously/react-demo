@@ -5,7 +5,7 @@ function About() {
       <p>
         Welcome to our React demo application! This is a simple example built with Vite and React.
       </p>
-      <h2>Technologies Used</h2>
+      <h2>This is from a PR</h2>
       <ul>
         <li>React 19.1.1</li>
         <li>TypeScript</li>
